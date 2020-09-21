@@ -14,4 +14,5 @@ The purpose of this analysis is to alalyze students math and reading  grades.
 7. After removing the data from thomas high school all the over all scores dropped.
 
 #Summary
+
 After removing the data from thomas high school all the over all scores dropped.
