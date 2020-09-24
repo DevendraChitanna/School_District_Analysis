@@ -1,4 +1,5 @@
 # School_District_Analysis
+Hey grader i used pycharm as my ide and pushed to github directly from pycharm, I'm not sure if this my have caused the issue. I checked my notebook and everything works as it should. I uploaded the file directly from github, hopefully this fixes the issue your having opening my file. If not please send me an email at devendrachitanna@gmail.com. 
 
 # Overview of the school district analysis:
 
